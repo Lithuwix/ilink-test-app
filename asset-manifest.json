@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ilink-test-app/static/css/main.cdd34d91.chunk.css",
+    "main.js": "/ilink-test-app/static/js/main.111a0d29.chunk.js",
+    "main.js.map": "/ilink-test-app/static/js/main.111a0d29.chunk.js.map",
+    "runtime-main.js": "/ilink-test-app/static/js/runtime-main.6e57e3db.js",
+    "runtime-main.js.map": "/ilink-test-app/static/js/runtime-main.6e57e3db.js.map",
+    "static/js/2.8080ae6e.chunk.js": "/ilink-test-app/static/js/2.8080ae6e.chunk.js",
+    "static/js/2.8080ae6e.chunk.js.map": "/ilink-test-app/static/js/2.8080ae6e.chunk.js.map",
+    "index.html": "/ilink-test-app/index.html",
+    "precache-manifest.bc9b489cb74c442ebdc3b058d2b0c041.js": "/ilink-test-app/precache-manifest.bc9b489cb74c442ebdc3b058d2b0c041.js",
+    "service-worker.js": "/ilink-test-app/service-worker.js",
+    "static/css/main.cdd34d91.chunk.css.map": "/ilink-test-app/static/css/main.cdd34d91.chunk.css.map",
+    "static/js/2.8080ae6e.chunk.js.LICENSE.txt": "/ilink-test-app/static/js/2.8080ae6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e57e3db.js",
+    "static/js/2.8080ae6e.chunk.js",
+    "static/css/main.cdd34d91.chunk.css",
+    "static/js/main.111a0d29.chunk.js"
+  ]
+}
