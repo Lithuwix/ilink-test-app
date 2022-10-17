@@ -1,4 +1,4 @@
-# ILink test App
+# iLink test App
 
 https://lithuwix.github.io/ilink-test-app
 
