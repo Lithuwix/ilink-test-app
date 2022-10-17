@@ -1,30 +1,35 @@
-# Learning Cards
+# ILink test App
 
-https://lithuwix.github.io/language-learning-app
+https://lithuwix.github.io/ilink-test-app
 
-This application was developed as part of a test task for ilink company
+This project was developed as part of a test task for ilink company https://ilink.dev
+
+Application helps in learning different languages
+You can swap cards with words to get the correct sentence denoting the translation of the given phrase
+it's very simple, try it!)
 
 ---
 
-### Technologies:
+## Technologies:
 
 - React
 - TypeScript
-- Material-UI
+- React Speech Kit
+- React DnD
 
 ---
 
-### Basic Git commits template
+## Basic Git commits template
 
-type: description
+### type: description
 
 types:
 
-feat: create something new
-fix: bug fixing
-refactor: changes in structure
-test: create unit tests or modify existing tests
-style: appearance changes
-check: informational info for developer testing something inessential
-info: informational changes 
+- feat: add something new
+- fix: bug fixing
+- refactor: changes in structure
+- test: create unit tests or modify existing tests
+- style: appearance changes
+- check: informational info for developer testing something inessential
+- info: informational changes 
 
